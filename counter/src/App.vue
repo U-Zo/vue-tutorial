@@ -1,19 +1,36 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Counter
+        :count="count"
+        :on-increase="onIncrease"
+        :on-decrease="onDecrease"
+    />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import Counter from '@/components/Counter';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Counter,
+  },
+  data() {
+    return {
+      count: 0,
+    };
+  },
+  methods: {
+    onIncrease() {
+      this.count++;
+    },
+    onDecrease() {
+      this.count--;
+    },
+  },
+};
 </script>
 
 <style>
