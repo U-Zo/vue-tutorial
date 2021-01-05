@@ -18,19 +18,104 @@
   },
   "todos": [
     {
-      "text": "zxcxzcxz",
+      "text": "일과하기",
+      "isChecked": false,
+      "id": 1
+    },
+    {
+      "text": "놀기",
       "isChecked": false,
       "id": 2
     },
     {
-      "text": "zxcxzc",
+      "text": "게임하기",
       "isChecked": false,
       "id": 3
     },
     {
-      "text": "asdsad",
+      "text": "4",
       "isChecked": false,
       "id": 4
+    },
+    {
+      "text": "5",
+      "isChecked": false,
+      "id": 5
+    },
+    {
+      "text": "6",
+      "isChecked": false,
+      "id": 6
+    },
+    {
+      "text": "7",
+      "isChecked": false,
+      "id": 7
+    },
+    {
+      "text": "8",
+      "isChecked": false,
+      "id": 8
+    },
+    {
+      "text": "9",
+      "isChecked": false,
+      "id": 9
+    },
+    {
+      "text": "10",
+      "isChecked": false,
+      "id": 10
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 11
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 12
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 13
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 14
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 15
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 16
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 17
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 18
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 19
+    },
+    {
+      "text": "1",
+      "isChecked": false,
+      "id": 20
     }
   ]
 }
